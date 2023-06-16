@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+}
+
+header{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: red;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+	line-height: 0.8;
+}
+header h2 {
+	color: white;
+	line-height: 0.0001;
+}
+
+header img{
+	border-radius: 70px;
+    height: 350px;
+}
+
+main{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: skyblue;
+}
+main h2{
+	font-size: 40px;
+	color:white;
+	margin: 30px;
+}
+main p{
+	font-size: 20px;
+	margin: 20px;
+	text-indent: 20px;
+}
+
+main img{
+	margin: 20px;
+}
+
+footer{
+	background-color: red;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+footer p{
+	margin: 20px;
+	color: white;
+}
